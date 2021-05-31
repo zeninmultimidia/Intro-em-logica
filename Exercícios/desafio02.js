@@ -31,6 +31,6 @@ if (name2.charAt(0) === "R"){
 
 
 // 5 - Criar uma condição que exiba uma mensagem no console se seu sobrenome tenha mais de 6 letras OU seu nome começar com a letra E
-if ((sobrenome2.length >= 6) || (sobrenome2.charAt (0) === "E")){
+if ((sobrenome2.length >= 6) || (name2.charAt(0) === "E")){
     console.log("WOW!!! Seu sobrenome tem mais de 6 letras ou começa com a letra E!")
 }
